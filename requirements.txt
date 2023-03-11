@@ -1,0 +1,10 @@
+datajoint
+matplotlib
+neuralpredictors
+nnfabrik
+numpy
+pandas
+seaborn
+torch
+torchvision
+tqdm
